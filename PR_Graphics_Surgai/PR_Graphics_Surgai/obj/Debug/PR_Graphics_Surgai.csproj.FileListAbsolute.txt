@@ -1,0 +1,10 @@
+C:\Users\Alienware\source\repos\ІЗВП\PR_Graphics_Surgai\PR_Graphics_Surgai\obj\Debug\PR_Graphics_Surgai.csprojAssemblyReference.cache
+C:\Users\Alienware\source\repos\ІЗВП\PR_Graphics_Surgai\PR_Graphics_Surgai\obj\Debug\PR_Graphics_Surgai.MainForm.resources
+C:\Users\Alienware\source\repos\ІЗВП\PR_Graphics_Surgai\PR_Graphics_Surgai\obj\Debug\PR_Graphics_Surgai.Properties.Resources.resources
+C:\Users\Alienware\source\repos\ІЗВП\PR_Graphics_Surgai\PR_Graphics_Surgai\obj\Debug\PR_Graphics_Surgai.csproj.GenerateResource.cache
+C:\Users\Alienware\source\repos\ІЗВП\PR_Graphics_Surgai\PR_Graphics_Surgai\obj\Debug\PR_Graphics_Surgai.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\source\repos\ІЗВП\PR_Graphics_Surgai\PR_Graphics_Surgai\bin\Debug\PR_Graphics_Surgai.exe.config
+C:\Users\Alienware\source\repos\ІЗВП\PR_Graphics_Surgai\PR_Graphics_Surgai\bin\Debug\PR_Graphics_Surgai.exe
+C:\Users\Alienware\source\repos\ІЗВП\PR_Graphics_Surgai\PR_Graphics_Surgai\bin\Debug\PR_Graphics_Surgai.pdb
+C:\Users\Alienware\source\repos\ІЗВП\PR_Graphics_Surgai\PR_Graphics_Surgai\obj\Debug\PR_Graphics_Surgai.exe
+C:\Users\Alienware\source\repos\ІЗВП\PR_Graphics_Surgai\PR_Graphics_Surgai\obj\Debug\PR_Graphics_Surgai.pdb
